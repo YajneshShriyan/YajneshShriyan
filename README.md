@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YajneshShriyan
-- 👀 I’m interested in Mobile App dev,Web Dev,Cloud computing ettc
-- 🌱 I’m currently learning Final year in Computer Science Engineering
-- 💞️ I’m looking to collaborate on cloud,mobile app dev,web dev and mentoring
+- 👀 I’m interested in Mobile App dev, Web Dev, Cloud , etc
+- 🌱 I’m currently learning the Final year of Computer Science Engineering
+- 💞️ I’m looking to collaborate on cloud, mobile app dev, web dev, and mentoring
 - 📫 How to reach me yajneshshriyan@gmail.com
 
 <!---
